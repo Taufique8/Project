@@ -1,2 +1,2 @@
-# Project
+# Python Project
 Indian Weather Analysis 
